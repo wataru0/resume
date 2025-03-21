@@ -28,18 +28,24 @@
 
 | 所属        | 時期              | 役割                        |
 | ---------- | ----------------- | ----------------------------- |
-| 楽天グループ株式会社 | 2022/3 -         | Application Engineer |
+| 楽天グループ株式会社 | 2022/4 -    | Application Engineer |
 
-## 楽天グループ株式会社 (2022/3 -)
+## 楽天グループ株式会社 (2022/4 -)
+
+### 所属: Rakuma Search Team
 
 #### 主な実績
 
-#### チーム構成
+2022年4月に楽天グループ株式会社に新卒で入社し、フリマアプリ「ラクマ」の検索機能を中心に開発を担当。
+検索・出品UXの改善、新機能の設計・開発、パフォーマンス改善など幅広いプロジェクトを経験。
+また、3~5人規模の英語話者メンバーを含むチームのプロジェクトリードも経験。技術面だけでなく、タスク調整や進捗管理、仕様共有といったマネジメント業務にも携わる。
 
-#### 技術スタック
+#### プロジェクト
+
 
 ### Appendix
 
+- Rakuten Rakuma: [https://fril.jp/](https://fril.jp/)
 - 特許: [バーコード出品機能](https://worldwide.espacenet.com/patent/search/family/093793866/publication/JP7598993B1?q=pn%3DJP7598993B1)
 
 ## 自己PR
@@ -56,7 +62,7 @@
 
 - AWS Certified Solutions Architect – Associate 取得 (2024/10)
 - AWS Certified Cloud Practitioner 取得 (2024/6)
-- TOEIC Listening & Reading Test 805点　取得 (2021/7)
+- TOEIC Listening & Reading Test 805点 取得 (2021/7)
 - 応用情報技術者試験 合格 (2017/12)
 - 基本情報技術者試験 合格 (2016/5)
 
