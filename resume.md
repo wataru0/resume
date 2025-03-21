@@ -15,6 +15,15 @@
 
 ## 経験・スキルセット
 
+- 言語：Ruby, JavaScript
+- フレームワーク・ライブラリ：Ruby on Rails, React, Sidekiq
+- 検索エンジン：Apache Solrベースの楽天検索エンジン
+- DB：MySQL
+- 分析：BigQuery, Cloud Logging, Datadog, Redash, Bugsnag
+- インフラ：AWS（S3, EC2, Lambda など）
+- デザイン: Figma（デザイン確認のみ）
+- その他：JIRA, Confluence, Miro
+
 ## 職務履歴
 
 | 所属        | 時期              | 役割                        |
@@ -30,6 +39,8 @@
 #### 技術スタック
 
 ### Appendix
+
+- 特許: [バーコード出品機能](https://worldwide.espacenet.com/patent/search/family/093793866/publication/JP7598993B1?q=pn%3DJP7598993B1)
 
 ## 自己PR
 
