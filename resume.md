@@ -20,7 +20,7 @@
 - 検索エンジン：Apache Solrベースの楽天検索エンジン
 - DB：MySQL
 - 分析：BigQuery, Cloud Logging, Datadog, Redash, Bugsnag
-- インフラ：AWS（S3, EC2, Lambda など）
+- インフラ：AWS（EC2, S3, CloudWatch など）
 - デザイン: Figma（デザイン確認のみ）
 - その他：JIRA, Confluence, Miro
 
@@ -28,11 +28,11 @@
 
 | 所属        | 時期              | 役割                        |
 | ---------- | ----------------- | ----------------------------- |
-| 楽天グループ株式会社 | 2022/4 -    | Application Engineer |
+| 楽天グループ株式会社 | 2022/4 -    | Applications Engineer |
 
 ## 楽天グループ株式会社 (2022/4 -)
 
-### 所属: Rakuma Search Team
+### 所属: Rakuma Development Section, Search Team
 
 #### 主な実績
 
